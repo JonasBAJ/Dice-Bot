@@ -1,0 +1,39 @@
+Dice bot by Jonas Bajorinas
+
+About:
+	This automated bet bot places bets on dices in tonybet.lt,
+	topsport.lt, orakulas.lt and 1xbet.com sites.
+	Bot automaticaly connects to your account in sites and places bets
+	for you.
+	Bot can be modified and adjusted for variuos playing patterns.
+	CSS paths are hardcoded into orakulas.py, xbet.py, topsport.py
+	and tonybet.py sources (please be advised to examine sites sources for posible changes).
+	Bot heavily relies on selenium webDriver.
+	
+Files:
+	main.py contains source for user interaction trough console.
+	tonybet.py contains source code for automated bet placing in tonybet.com.
+	topsport.py contains source code for automated bet placing in topsport.lt.
+	orakulas.py contains source code for automated bet placing in orakulas.lt.
+	xbet.py contains source code for automated bet placing in 1xbet.com.
+	webDriver.py contains methods for navigation in Chrome or phantomJS webdriver.
+	default_param.txt contains default parameters for automated bot.
+	
+Lounching program:
+	1. You need to downaload all files.
+	2. All files must be in one directory.
+	3. Please downaload one of specified web drivers Chrome or Phantom JS.
+	4. Chosen web driver (file with ending .exe) must be in bot directory.
+	5. Run program.
+
+NOTE:
+	Please be advised that bot may loose your money, be carefull!
+
+Helpfull links:
+	get Chrome driver -> https://code.google.com/p/selenium/wiki/ChromeDriver
+	get PhantomJS -> http://phantomjs.org/
+	tonybet -> https://lt.tonybet.com/
+	topsport -> https://www.topsport.lt/
+	orakulas -> https://orakulas.lt/
+	xbet -> https://www.1xbet.com/
+	

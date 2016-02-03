@@ -1,0 +1,1 @@
+{'sessions': 240, 'sleep_time': 14400, 'bet_size': '50', 'login_attempts': 5, 'connection_errors': 5, 'unusual_errors': 5, 'odd_1': {'number': '397', 'name': 'Sum of the rolled dice pips will be more than 21.5' , 'odd': '620'},  'odd_2': {'number': '394', 'name': 'Sum of the rolled dice pips will be less than 13.5' , 'odd': '620'}}
