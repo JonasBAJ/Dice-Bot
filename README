@@ -2,12 +2,11 @@ Dice bot by Jonas Bajorinas
 
 About:
 	This automated bet bot places bets on dices in tonybet.lt,
-	topsport.lt, orakulas.lt and 1xbet.com sites.
-	Bot automatically connects to your account in sites and places bets
-	for you.
+		topsport.lt, orakulas.lt and 1xbet.com sites.
+	Bot automatically connects to your account in sites and places bets for you.
 	Bot can be modified and adjusted for various playing patterns.
 	CSS paths are hardcoded into orakulas.py, xbet.py, topsport.py
-	and tonybet.py sources (please be advised to examine sites sources for posible changes).
+		and tonybet.py sources (please be advised to examine sites sources for posible changes).
 	Bot heavily relies on selenium webdriver.
 	
 Files:
